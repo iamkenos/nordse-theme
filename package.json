@@ -1,0 +1,21 @@
+{
+    "name": "nordse-theme",
+    "displayName": "Nordse",
+    "description": "A minimal dark theme based on Skok's GMK Norse.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nordse",
+                "uiTheme": "vs-dark",
+                "path": "./themes/nordse-color-theme.json"
+            }
+        ]
+    }
+}
