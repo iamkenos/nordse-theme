@@ -152,7 +152,9 @@
     "titleBar.activeBackground": "#46474c",
     "titleBar.border": "#4b4c51",
     "titleBar.inactiveBackground": "#3a3b3f",
-    "widget.shadow": "#222224"
+    "widget.shadow": "#222224",
+    "statusBar.noFolderBackground": "#2E2F32",
+    "statusBar.debuggingBackground": "#C77A85",
     //"activityBar.foreground": "#ffffff",
     //"banner.background": "#b2b2b220",
     //"banner.foreground": "#ffffff",
@@ -404,7 +406,6 @@
     //"statusBar.debuggingBackground": "#cc6633",
     //"statusBar.debuggingForeground": "#ffffff",
     //"statusBar.foreground": "#ffffff",
-    //"statusBar.noFolderBackground": "#68217a",
     //"statusBar.noFolderForeground": "#ffffff",
     //"statusBarItem.activeBackground": "#ffffff2e",
     //"statusBarItem.errorBackground": "#5b2b32",
@@ -962,26 +963,26 @@
     {
       "scope": "token.info-token",
       "settings": {
-        "foreground": "#6796E6"
+        "foreground": "#8FB2ED"
       }
     },
     {
       "scope": "token.warn-token",
       "settings": {
-        "foreground": "#CD9731"
+        "foreground": "#FAE8B4"
       }
     },
     {
       "scope": "token.error-token",
       "settings": {
-        "foreground": "#F44747"
+        "foreground": "#984854"
       }
     },
     {
       "scope": "token.debug-token",
       "settings": {
-        "foreground": "#B267E6"
+        "foreground": "#C68FED"
       }
-    }
+    },
   ]
 }
